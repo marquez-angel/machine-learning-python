@@ -1,5 +1,5 @@
-## machine-learning-python
-# Trabajo en equipo para aprender machine learning
+# machine-learning-python
+## Trabajo en equipo para aprender machine learning
 
 curso de apoyo: https://www.youtube.com/watch?v=V4ab6qsJZMY
 
