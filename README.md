@@ -2,6 +2,10 @@
 ## Trabajo en equipo para aprender machine learning
 
 curso de apoyo: https://www.youtube.com/watch?v=V4ab6qsJZMY
-
-para instalar jupyter sin anaconda: https://jupyter.org/install
-
+## requerimentos:
+anaconda: https://www.anaconda.com/products/distribution
+comandos:
+    conda install -c conda-forge imbalanced-learn
+    
+    pip install -U imbalanced-learn
+    
