@@ -1,5 +1,7 @@
 # machine-learning-python
 ## Trabajo en equipo para aprender machine learning
+##Angela Rodriguez Maldonado
+##Angel Marquez 
 
 curso de apoyo: https://www.youtube.com/watch?v=V4ab6qsJZMY
 ## requerimentos:
